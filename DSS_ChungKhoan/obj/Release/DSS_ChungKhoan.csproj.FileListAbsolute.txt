@@ -1,0 +1,11 @@
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\bin\Release\DSS_ChungKhoan.exe.config
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\bin\Release\DSS_ChungKhoan.exe
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\bin\Release\DSS_ChungKhoan.pdb
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.csprojAssemblyReference.cache
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.AddNewCP.resources
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.Form1.resources
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.Properties.Resources.resources
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.csproj.GenerateResource.cache
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.csproj.CoreCompileInputs.cache
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.exe
+C:\Users\Trong\source\repos\DSS_ChungKhoan\DSS_ChungKhoan\obj\Release\DSS_ChungKhoan.pdb
